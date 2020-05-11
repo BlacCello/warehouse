@@ -1,0 +1,7 @@
+black
+gym
+pyaml
+numpy
+huskarl
+matplotlib
+pygame
